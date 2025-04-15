@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/183567160?s=400&u=3bb218daf2c09666d4d56d05b1c105816e3194e1&v=4"  />
+<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/1200px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png"  />
 
 ###
 
