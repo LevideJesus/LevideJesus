@@ -24,4 +24,5 @@ I am a Software Engineering student at FIAP, passionate about game development a
 
 ### 📫 Get in touch
 
-* **LinkedIn**:
+* **LinkedIn**: [linkedin.com/in/levidejesus](https://www.linkedin.com/in/levidejesus)
+* **Email**: levijesus2121@gmail.com
