@@ -1,6 +1,6 @@
 # Hi there, I'm Levi! 👋
 
-I am a Software Engineering student at FIAP, passionate about game development and technology. I develop games using Unity, working with C#, C++, and Python, focusing on functional systems, robust logic, and engaging gameplay mechanics. I value teamwork and I'm always seeking new challenges to solve complex problems within the game industry.
+I am a Software Engineering student at FIAP, passionate about game development and technology. I develop games using Unity, working with C#, focusing on functional systems, robust logic, and engaging gameplay mechanics. I value teamwork and I'm always seeking new challenges to solve complex problems within the game industry.
 
 ### 🎓 Education & Career
 
