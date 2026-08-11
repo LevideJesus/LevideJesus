@@ -1,28 +1,71 @@
 # Hi there, I'm Levi! 👋
 
-I am a Software Engineering student at FIAP, passionate about game development and technology. I develop games using Unity, working with C#, focusing on functional systems, robust logic, and engaging gameplay mechanics. I value teamwork and I'm always seeking new challenges to solve complex problems within the game industry.
+I am a Software Engineering student at **FIAP**, focused on **Backend Development and Software Engineering**. I am passionate about building scalable, reliable, and well-structured software solutions, with a strong interest in backend architecture, APIs, databases, and system design.
 
-### 🎓 Education & Career
+Currently, I work with **C#, .NET, SQL, and REST APIs**, developing applications focused on clean code, logical problem-solving, and efficient data management. I enjoy understanding how systems work behind the scenes and transforming ideas into functional and maintainable software.
 
-* **Bachelor's in Software Engineering**: Currently studying at FIAP (January 2025 - January 2028).
-* **Data Science & Programming**: Complementary formation completed through Alura (March 2025 - April 2025).
+I am constantly improving my technical skills through academic projects and personal development, aiming to become a Backend Engineer and build solutions following professional software engineering practices.
 
-### 🛠️ Tech Stack & Tools
+---
 
-**Game Development & Programming**
+## 🎓 Education & Career
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+- **Bachelor's in Software Engineering:** Currently studying at **FIAP** (January 2025 - January 2028).
+- **English:** B2 (Upper Intermediate), currently progressing toward C1.
 
-### 🚀 Key Projects
+---
 
-* **Inventory System**: A technical project focused on core mechanics and "making things happen." This system features advanced drag-and-drop functionality and item interaction, prioritizing robust back-end logic and smooth movement over visual design.
-* **Space Invaders**: A classic arcade-style game developed using Python and Pygame.
+## 🛠️ Tech Stack & Tools
 
-### 🏆 Honors & Awards
+### Backend Development & Programming
 
-* **Top 30 - FIAP Challenge (Adidas Partnership)**: Developed a solution in partnership with Adidas focused on strengthening and supporting women's football.
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-### 📫 Get in touch
+---
 
-* **LinkedIn**: [linkedin.com/in/levidejesus](https://www.linkedin.com/in/levidejesus)
-* **Email**: levijesus2121@gmail.com
+## 🚀 Key Project
+
+### 🏆 Sports Live Platform — Backend System
+
+A backend-focused platform designed to centralize sports information and provide a unified system for live sports data.
+
+The project focuses on building a scalable backend architecture using:
+
+- **C#**
+- **ASP.NET Core**
+- **Entity Framework Core**
+- **SQL Database**
+- **REST APIs**
+
+The goal is to develop a real-world software system involving:
+
+- Data modeling
+- API development
+- External API integration
+- Authentication
+- Real-time data processing
+- Scalable backend architecture
+
+This project represents my journey into professional backend engineering, applying software engineering concepts beyond academic exercises.
+
+---
+
+## 🏆 Honors & Awards
+
+- **Top 30 - FIAP Challenge (Adidas Partnership):**  
+Developed a technological solution in partnership with Adidas focused on strengthening and supporting women's football.
+
+---
+
+## 📫 Get in touch
+
+- **LinkedIn:** [linkedin.com/in/levidejesus](https://linkedin.com/in/levidejesus)
+- **Email:** levijesus2121@gmail.com
