@@ -11,7 +11,7 @@ I am constantly improving my technical skills through academic projects and pers
 ## 🎓 Education & Career
 
 - **Bachelor's in Software Engineering:** Currently studying at **FIAP** (January 2025 - January 2028).
-- **English:** B2 (Upper Intermediate), currently progressing toward C1.
+- **English:** C1 (Advanced).
 
 ---
 
