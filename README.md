@@ -33,29 +33,6 @@ I am constantly improving my technical skills through academic projects and pers
 
 ## 🚀 Key Project
 
-### 🏆 Sports Live Platform — Backend System
-
-A backend-focused platform designed to centralize sports information and provide a unified system for live sports data.
-
-The project focuses on building a scalable backend architecture using:
-
-- **C#**
-- **ASP.NET Core**
-- **Entity Framework Core**
-- **SQL Database**
-- **REST APIs**
-
-The goal is to develop a real-world software system involving:
-
-- Data modeling
-- API development
-- External API integration
-- Authentication
-- Real-time data processing
-- Scalable backend architecture
-
-This project represents my journey into professional backend engineering, applying software engineering concepts beyond academic exercises.
-
 ---
 
 ## 🏆 Honors & Awards
